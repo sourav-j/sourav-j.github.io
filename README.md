@@ -1,2 +1,3 @@
 # sourav-j.github.io
-Hi. I am Sourav Jana. I am a B. Tech (Information Technology) student.
+Hi. I am Sourav Jana, a Software Engineer with 3.5 years of experience. 
+Experience in Java, Spring Boot, OracleSQL, postgreSQL
